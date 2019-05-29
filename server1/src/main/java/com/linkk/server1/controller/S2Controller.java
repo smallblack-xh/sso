@@ -10,6 +10,6 @@ public class S2Controller {
     
     @RequestMapping("test")
     public String test(){
-        return "S1 TEST!";
+        return "S1 TEST!vvv";
     }
 }
